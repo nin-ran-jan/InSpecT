@@ -1,0 +1,3 @@
+[submodule "SpecTNT-pytorch"]
+	path = SpecTNT-pytorch
+	url = https://github.com/MWM-io/SpecTNT-pytorch.git
